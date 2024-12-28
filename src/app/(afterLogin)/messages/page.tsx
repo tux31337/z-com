@@ -1,3 +1,8 @@
-export default function Page() {
-  return <div>메시지 페이지</div>;
+
+export default function Home() {
+  return (
+    <main>
+      쪽지페이지
+    </main>
+  )
 }

@@ -1,5 +1,7 @@
-import Home from '../../home/page';
-
-export default function Page() {
-  return <Home />;
+export default function Home() {
+  return (
+    <main>
+      게시글
+    </main>
+  )
 }

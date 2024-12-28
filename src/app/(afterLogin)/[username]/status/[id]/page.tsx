@@ -1,3 +1,7 @@
 export default function Page() {
-  return <div>[username]/status/[id] 페이지</div>;
+  return (
+    <main>
+      게시글 상세
+    </main>
+  )
 }
